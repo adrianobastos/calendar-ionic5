@@ -26,7 +26,7 @@
     "cordova-android": "^8.1.0",
     "install": "^0.13.0",
     "ionic2-calendar": "^0.6.6",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "npm": "^6.14.6",
     "rxjs": "~6.5.1",
     "tslib": "^1.10.0",
